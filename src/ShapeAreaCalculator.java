@@ -52,7 +52,7 @@ public class ShapeAreaCalculator {
                 printArea("Luas segitiga", triangleArea);
                 break;
             default:
-                System.out.println("Pilihan tidak valid.");
+                System.out.println("Hanya bisa memasukkan angka.");
         }
     }
 
